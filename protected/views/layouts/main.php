@@ -18,16 +18,16 @@
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-fa-57x57-precomposed.png">
 <link rel="shortcut icon" href="/favicon.png">
 </head>
-<body>
+<body<?php echo Yii::app()->request->url!='/' ? ' class="collapsing_header"' : ''; ?>>
 <header>
      <div class="container">
           <div class="navbar navbar-default" role="navigation">
                <div class="navbar-header"><a class="navbar-brand" href="/"> <img src="/images/restart_logo.png" alt="optional logo" height="90" width="90"> <span class="logo_title">{ec}<strong>services</strong></span> <span class="logo_subtitle">решения для интернет-бизнеса</span> </a><a class="btn btn-navbar btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="nb_left pull-left"> <span class="fa fa-reorder"></span></span> <span class="nb_right pull-right">menu</span> </a></div>
                <div class="collapse navbar-collapse">
                     <ul class="nav pull-right navbar-nav">
-                         <li class="active"><a href="/">Главная</a></li>
-                         <li><a href="about_us.html">О нас</a></li>
-                         <li><a href="services.html">Услуги</a></li>
+						 <li<?php echo Yii::app()->request->url=='/' ? ' class="active"' : '';  ?>><a href="/">Главная</a></li>
+                         <li<?php echo Yii::app()->request->url=='/about' ? ' class="active"' : '';  ?>><a href="/about">О нас</a></li>
+                         <li<?php echo Yii::app()->request->url=='/services' ? ' class="active"' : '';  ?>><a href="/services">Услуги</a></li>
                          <li><a href="portfolio.html">Портфолио</a></li>
                          <li><a href="blog.html">Блог</a></li>
                          <li><a href="contact.html">Контакты</a></li>
