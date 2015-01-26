@@ -31,7 +31,7 @@
                          <li><a href="portfolio.html">Портфолио</a></li>
                          <li><a href="blog.html">Блог</a></li>
                          <li><a href="contact.html">Контакты</a></li>
-                         <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Pages<span class="caret"></span></a>
+                         <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Демо<span class="caret"></span></a>
                               <ul class="dropdown-menu">
                                    <li><a href="home_alternative.html">Home Alternative</a></li>
                                    <li><a href="page_alternative.html">Page Alternative</a></li>
