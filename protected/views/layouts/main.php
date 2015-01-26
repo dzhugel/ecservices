@@ -25,12 +25,12 @@
                <div class="navbar-header"><a class="navbar-brand" href="/"> <img src="/images/restart_logo.png" alt="optional logo" height="90" width="90"> <span class="logo_title">{ec}<strong>services</strong></span> <span class="logo_subtitle">решения для интернет-бизнеса</span> </a><a class="btn btn-navbar btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="nb_left pull-left"> <span class="fa fa-reorder"></span></span> <span class="nb_right pull-right">menu</span> </a></div>
                <div class="collapse navbar-collapse">
                     <ul class="nav pull-right navbar-nav">
-                         <li class="active"><a href="index.html">Home</a></li>
-                         <li><a href="about_us.html">About Us</a></li>
-                         <li><a href="services.html">Services</a></li>
-                         <li><a href="portfolio.html">Portfolio</a></li>
-                         <li><a href="blog.html">Blog</a></li>
-                         <li><a href="contact.html">Contact</a></li>
+                         <li class="active"><a href="/">Главная</a></li>
+                         <li><a href="about_us.html">О нас</a></li>
+                         <li><a href="services.html">Услуги</a></li>
+                         <li><a href="portfolio.html">Портфолио</a></li>
+                         <li><a href="blog.html">Блог</a></li>
+                         <li><a href="contact.html">Контакты</a></li>
                          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Pages<span class="caret"></span></a>
                               <ul class="dropdown-menu">
                                    <li><a href="home_alternative.html">Home Alternative</a></li>
