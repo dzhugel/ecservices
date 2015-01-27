@@ -32,7 +32,8 @@ return array(
                         'rules' => array(
                             'app/<controller:\w+>/<action:\w+>'=>'app/<controller>/<action>',
 							'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
-							'/about'=>'/site/about'
+							'/about'=>'/site/about',
+							'/services'=>'/site/services'
                         )
                 ),
                 'log'=>array(
