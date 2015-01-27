@@ -13,4 +13,14 @@ class SiteController extends CController
         $this->render('index');    
 	}
 
+	public function actionAbout()
+	{
+		$this->render('about');
+	}		
+	
+	public function actionServices()
+	{
+		$this->render('services');
+	}		
+	
 }
