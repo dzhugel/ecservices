@@ -33,7 +33,8 @@ return array(
                             'app/<controller:\w+>/<action:\w+>'=>'app/<controller>/<action>',
 							'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
 							'/about'=>'/site/about',
-							'/services'=>'/site/services'
+							'/services'=>'/site/services',
+							'/portfolio'=>'/site/portfolio'
                         )
                 ),
                 'log'=>array(
