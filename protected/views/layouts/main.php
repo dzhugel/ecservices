@@ -9,6 +9,9 @@
 <link href="/animate.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/js/woothemes-FlexSlider-06b12f8/flexslider.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/js/prettyPhoto_3.1.5/prettyPhoto.css" type="text/css" media="screen">
+<?php if(Yii::app()->request->url=='/portfolio'){ ?>
+<link rel="stylesheet" href="/js/isotope/css/style.css" type="text/css" media="screen">
+<?php } ?>
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css" media="screen">
 <script type="text/javascript" src="/js/modernizr.custom.48287.js"></script>
@@ -18,7 +21,7 @@
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-fa-57x57-precomposed.png">
 <link rel="shortcut icon" href="/favicon.png">
 </head>
-<body<?php echo Yii::app()->request->url!='/' ? ' class="collapsing_header"' : ''; ?>>
+<body<?php echo Yii::app()->request->url!='/' && Yii::app()->request->url!='/portfolio' ? ' class="collapsing_header"' : ''; ?>>
 <header>
      <div class="container">
           <div class="navbar navbar-default" role="navigation">
