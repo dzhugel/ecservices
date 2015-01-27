@@ -22,7 +22,7 @@
                <div class="row isotope_portfolio_container">
                     <div class="cat_travel col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/t5.jpg)">
+                              <figure style="background-image:url(/images/portfolio/t5.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="cat_people col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/p4.jpg)">
+                              <figure style="background-image:url(/images/portfolio/p4.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -58,7 +58,7 @@
                     </div>
                     <div class="cat_artists col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/a3.jpg)">
+                              <figure style="background-image:url(/images/portfolio/a3.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="cat_people col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/p3.jpg)">
+                              <figure style="background-image:url(/images/portfolio/p3.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -94,7 +94,7 @@
                     </div>
                     <div class="cat_travel col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/t3.jpg)">
+                              <figure style="background-image:url(/images/portfolio/t3.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -112,7 +112,7 @@
                     </div>
                     <div class="cat_people col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/p1.jpg)">
+                              <figure style="background-image:url(/images/portfolio/p1.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -130,7 +130,7 @@
                     </div>
                     <div class="cat_poetic col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/b3.jpg)">
+                              <figure style="background-image:url(/images/portfolio/b3.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -148,7 +148,7 @@
                     </div>
                     <div class="cat_artists col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/a4.jpg)">
+                              <figure style="background-image:url(/images/portfolio/a4.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -166,7 +166,7 @@
                     </div>
                     <div class="cat_travel col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/t4.jpg)">
+                              <figure style="background-image:url(/images/portfolio/t4.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="cat_artists col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/a5.jpg)">
+                              <figure style="background-image:url(/images/portfolio/a5.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -202,7 +202,7 @@
                     </div>
                     <div class="cat_poetic col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/b5.jpg)">
+                              <figure style="background-image:url(/images/portfolio/b5.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
@@ -220,7 +220,7 @@
                     </div>
                     <div class="cat_artists col-xs-12 col-sm-6 col-md-4 col-lg-4">
                          <div class="portfolio_item"> <a href="portfolio_item.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                              <figure style="background-image:url(images/portfolio/a1.jpg)">
+                              <figure style="background-image:url(/images/portfolio/a1.jpg)">
                                    <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
