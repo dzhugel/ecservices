@@ -21,7 +21,7 @@
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-fa-57x57-precomposed.png">
 <link rel="shortcut icon" href="/favicon.png">
 </head>
-<body<?php echo Yii::app()->request->url!='/' && Yii::app()->request->url!='/portfolio' ? ' class="collapsing_header"' : ''; ?>>
+<body<?php echo !in_array(Yii::app()->request->url,array('/','/portfolio','/blog')) ? ' class="collapsing_header"' : ''; ?>>
 <header>
      <div class="container">
           <div class="navbar navbar-default" role="navigation">
