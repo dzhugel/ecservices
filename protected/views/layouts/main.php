@@ -28,9 +28,9 @@
 						 <li<?php echo Yii::app()->request->url=='/' ? ' class="active"' : '';  ?>><a href="/">Главная</a></li>
                          <li<?php echo Yii::app()->request->url=='/about' ? ' class="active"' : '';  ?>><a href="/about">О нас</a></li>
                          <li<?php echo Yii::app()->request->url=='/services' ? ' class="active"' : '';  ?>><a href="/services">Услуги</a></li>
-                         <li><a href="portfolio.html">Портфолио</a></li>
-                         <li><a href="blog.html">Блог</a></li>
-                         <li><a href="contact.html">Контакты</a></li>
+                         <li<?php echo Yii::app()->request->url=='/portfolio' ? ' class="active"' : '';  ?>><a href="/portfolio">Портфолио</a></li>
+                         <li<?php echo Yii::app()->request->url=='/blog' ? ' class="active"' : '';  ?>><a href="/blog">Блог</a></li>
+                         <li<?php echo Yii::app()->request->url=='/contacts' ? ' class="active"' : '';  ?>><a href="/contacts">Контакты</a></li>
                          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Демо<span class="caret"></span></a>
                               <ul class="dropdown-menu">
                                    <li><a href="home_alternative.html">Home Alternative</a></li>
