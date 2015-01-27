@@ -34,7 +34,9 @@ return array(
 							'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
 							'/about'=>'/site/about',
 							'/services'=>'/site/services',
-							'/portfolio'=>'/site/portfolio'
+							'/portfolio'=>'/site/portfolio',
+							'/blog'=>'/site/blog',
+							'/contacts'=>'/site/contacts'
                         )
                 ),
                 'log'=>array(
