@@ -4,11 +4,11 @@
                <div class="row">
                     <div class="tob_bar_left_col col-xs-12 col-sm-6 col-md-6">
                          <ul class="top_menu">
-                              <li><a href="index.html">Home</a></li>
-                              <li><a href="about_us.html">About Us</a></li>
-                              <li><a href="services.html">Services</a></li>
-                              <li><a href="portfolio.html">Portfolio</a></li>
-                              <li><a href="blog.html">Blog</a></li>
+                              <li><a href="/">Главная</a></li>
+                              <li><a href="/about">О нас</a></li>
+                              <li><a href="/services">Услуги</a></li>
+                              <li><a href="/portfolio">Портфолио</a></li>
+                              <li><a href="/blog">Блог</a></li>
                          </ul>
                     </div>
                     <div class="tob_bar_right_col col-xs-6 col-sm-6 col-md-6">
@@ -22,13 +22,13 @@
                <div class="navbar-header"><a class="navbar-brand" href="index.html"> <img src="images/restart_logo.png" alt="optional logo" height="90" width="90"> <span class="logo_title">{re}<strong>start</strong></span> <span class="logo_subtitle">a multipurpose template</span> </a><a class="btn btn-navbar btn-default navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="nb_left pull-left"> <span class="fa fa-reorder"></span></span> <span class="nb_right pull-right">menu</span> </a></div>
                <div class="collapse navbar-collapse">
                     <ul class="nav pull-right navbar-nav">
-                         <li><a href="index.html">Home</a></li>
-                         <li><a href="about_us.html">About Us</a></li>
-                         <li><a href="services.html">Services</a></li>
-                         <li><a href="portfolio.html">Portfolio</a></li>
-                         <li><a href="blog.html">Blog</a></li>
-                         <li class="active"><a href="contact.html">Contact</a></li>
-                         <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Pages<span class="caret"></span></a>
+                         <li><a href="/">Главная</a></li>
+                         <li><a href="/about">О нас</a></li>
+                         <li><a href="/services">Услуги</a></li>
+                         <li><a href="/portfolio">Портфолио</a></li>
+                         <li><a href="/blog">Блог</a></li>
+                         <li class="active"><a href="/contacts">Контакты</a></li>
+                         <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Демо<span class="caret"></span></a>
                               <ul class="dropdown-menu">
                                    <li><a href="home_alternative.html">Home Alternative</a></li>
                                    <li><a href="page_alternative.html">Page Alternative</a></li>
