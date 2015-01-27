@@ -23,4 +23,19 @@ class SiteController extends CController
 		$this->render('services');
 	}		
 	
+	public function actionPortfolio()
+	{
+		$this->render('portfolio');
+	}		
+	
+	public function actionBlog()
+	{
+		$this->render('blog');
+	}
+	
+	public function actionContacts()
+	{
+		$this->render('contacts');
+	}		
+	
 }
