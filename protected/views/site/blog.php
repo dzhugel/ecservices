@@ -4,8 +4,8 @@
                <h1>Blog, the News Section</h1>
                <h2>Nullam eget tortor purus, id molestie sapien. In hac habitasse platea dictumst. Donec aliquet tellus enim, a tincidunt nulla.</h2>
                <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Home</a> </li>
-                    <li class="active">Blog</li>
+                    <li><a href="/">Главная</a> </li>
+                    <li class="active">Блог</li>
                </ul>
           </section>
           <section>

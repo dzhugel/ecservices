@@ -2,11 +2,11 @@
 <div class="main">
      <div class="container">
           <section class="hgroup">
-               <h1>Contact us</h1>
+               <h1>Контакты</h1>
                <h2>This is a subtitle used optionally for explaining more...</h2>
                <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Home</a> </li>
-                    <li class="active">Contact</li>
+                    <li><a href="/">Главная</a> </li>
+                    <li class="active">Контакты</li>
                </ul>
           </section>
           <section>

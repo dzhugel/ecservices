@@ -1,12 +1,12 @@
 <div class="main">
      <div class="container">
           <section class="hgroup">
-               <h1>Portfolio</h1>
+               <h1>Портфолио</h1>
                <h2>This could be a showcase of your work! We are using the Isotope Jquery plugin to filter results. 
                     This is the<strong> strict version</strong>, you should also check out the<a href="gallery.html"><strong> great Masonry version</strong></a>. All photos © by <a href="http://www.dimitragiannouka.com" target="_blank">Dimitra Giannouka</a>.</h2>
                <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Home</a> </li>
-                    <li class="active">Portfolio</li>
+                    <li><a href="/">Главная</a> </li>
+                    <li class="active">Портфолио</li>
                </ul>
           </section>
           <section>
