@@ -15,7 +15,7 @@
                <div class="container">
                     <div class="row">
                          <div class="footer_teaser col-sm-4 col-md-4">
-                              <h3>About us</h3>
+                              <h3>О нас</h3>
                               <p>Fugiat dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum mas justo sitters.</p>
                               <p><i class="fa fa-map-marker"></i> 3 Athens street</p>
                               <p><i class="fa fa-phone"></i> (+30) 265-9987</p>
