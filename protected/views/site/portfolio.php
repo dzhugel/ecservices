@@ -240,14 +240,7 @@
           </section>
      </div>
      <footer>
-          <section class="copyright">
-               <div class="container">
-                    <div class="row">
-                         <div class="col-sm-6 col-md-6"> Copyright ©2014 all rights reserved </div>
-                         <div class="text-right col-sm-6 col-md-6"> Designed by <a href="http://www.leonart.gr">LeonArt</a> </div>
-                    </div>
-               </div>
-          </section>
+        <?php $this->renderPartial('_copyright'); ?>
      </footer>
 </div>
 <script type="text/javascript" src="/js/modernizr.custom.48287.js"></script>
