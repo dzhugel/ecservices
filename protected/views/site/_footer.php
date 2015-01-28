@@ -23,7 +23,7 @@
                               <p><i class="fa fa-envelope"></i> hello@restarttheme.com</p>
                          </div>
                          <div class="footer_teaser col-sm-4 col-md-4">
-                              <h3>Latest News</h3>
+                              <h3>Новости</h3>
                               <ul class="media-list">
                                    <li class="media"> <a href="#" class="media-photo" style="background-image:url(/images/portfolio/t5.jpg)"></a> <a href="#" class="media-date">19<span>FEB</span></a>
                                         <h5 class="media-heading"><a href="#">Media heading, this is a title of a news...</a></h5>

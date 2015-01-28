@@ -13,8 +13,8 @@
                <h1>Services</h1>
                <h2>This is a <b>hgroup.centered</b> In hac habitasse platea dictumst. Donec aliquet tellus enim, a tincidunt nulla.</h2>
                <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Home</a> </li>
-                    <li class="active">Services</li>
+                    <li><a href="/">Главная</a> </li>
+                    <li class="active">Услуги</li>
                </ul>
           </section>
           <section class="service_teasers">
