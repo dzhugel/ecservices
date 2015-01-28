@@ -12,8 +12,8 @@
                <h1>About us</h1>
                <h2>This is the <strong>collapsing header version</strong> of the about us page. The effect is achieved by assigning the "collapsing_header" class on the "body" tag. There is also the <a href="page_alternative.html">contained, plain style version</a></h2>
                <ul class="breadcrumb pull-right">
-                    <li><a href="index.html">Home</a> </li>
-                    <li class="active">About us</li>
+                    <li><a href="/">Главная</a> </li>
+                    <li class="active">О нас</li>
                </ul>
           </section>
           <section class="article-text">
